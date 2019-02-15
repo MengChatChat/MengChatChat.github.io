@@ -1,6 +1,5 @@
 ---
 title: Github Pages绑定域名
-index_img: ../post_img/20181025-1.jpg
 tags:  工具
 ---
 Github Pages的默认域名是github的二级域名username.github.com或者username.github.io，需要绑定自己的独立域名的话也非常简单，只要以下两步：
@@ -19,7 +18,7 @@ Github Pages的默认域名是github的二级域名username.github.com或者user
     ![GitHub Pages image](/post_img/github_pages_binding_domain/1-2.png)
 </div>
 
-#### 3.让 Hexo 在生成完毕后自动部署网站
+#### 3.Hexo生成完毕后自动部署网站
 ``` bash
 $ hexo generate --deploy
 ```
