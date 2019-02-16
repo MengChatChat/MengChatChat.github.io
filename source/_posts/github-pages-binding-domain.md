@@ -1,6 +1,7 @@
 ---
 title: Github Pages绑定域名
-tags:  工具
+index_img: ../post_img/github.png
+tags: [工具, hexo, Github Pages]
 ---
 Github Pages的默认域名是github的二级域名username.github.com或者username.github.io，需要绑定自己的独立域名的话也非常简单，只要以下两步：
 
