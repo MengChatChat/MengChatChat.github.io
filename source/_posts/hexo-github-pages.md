@@ -8,6 +8,7 @@ tags: [工具, hexo, Github Pages]
 
 可能有部分细节疏漏，推荐几篇文章，请参考：
 * [hexo中文官网文档](https://hexo.io/zh-cn)
+* [GitHub Pages](https://pages.github.com/)
 * [如何利用Github Pages搭建起自己的博客](https://www.cnblogs.com/jackyroc/p/7681938.html)
 * [教你免费搭建个人博客，Hexo&Github](https://zhuanlan.zhihu.com/p/25729240)
 * [最全Hexo博客搭建+主题优化+插件配置+常用操作+错误分析](https://www.simon96.online/2018/10/12/hexo-tutorial/)
