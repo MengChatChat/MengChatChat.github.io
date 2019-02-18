@@ -38,21 +38,9 @@ $ hexo g -d
 
 ### 二、域名解析
 
-#### 1.获取Github Pages域名的ip
+#### 1.增加一条CNAME记录
 
-首先获取你Github Pages域名的ip，比如你的Github pages域名为mengchatchat.github.io，执行一下命令：
-
-``` bash
-$ ping mengchatchat.github.io
-```
-
-你应该可以得到一个IP，比如IP是207.97.227.245。
-
-![GitHub Pages image](/post_img/github_pages_binding_domain/2-1.png)
-
-#### 2.增加一条A记录到该IP
-
-最后去你的域名注册商后台，增加一条A记录到该IP就好了。
+增加一条CNAME记录到该xx.github.io。到你的域名注册商后台，正确解析是使用CNAME将你的域名解析到 xx.github.io，不要使用A记录解析到ip。我这里配置了子域blog。
 
 ![GitHub Pages image](/post_img/github_pages_binding_domain/3-1.png)
 
@@ -63,3 +51,18 @@ $ ping mengchatchat.github.io
 ![GitHub Pages image](/post_img/github_pages_binding_domain/3-4.png)
 
 ![GitHub Pages image](/post_img/github_pages_binding_domain/3-5.png)
+
+---
+
+这是别人的设置，也可以参考一下，没有配置子域，而是直接使用www的。
+
+![GitHub Pages image](/post_img/github_pages_binding_domain/3-7.png)
+
+
+另外，需要注意的问题是，如果使用A记录解析到ip，则会每次发文章，都会收到github的邮件，如下：
+
+![GitHub Pages image](/post_img/github_pages_binding_domain/3-6.png)
+
+或者如下:
+
+![GitHub Pages image](/post_img/github_pages_binding_domain/3-8.png)
