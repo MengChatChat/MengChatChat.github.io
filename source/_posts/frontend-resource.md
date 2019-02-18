@@ -662,8 +662,14 @@ tags: [前端资源]
 * [走进SVG](http://www.imooc.com/view/143)
 
 ##### markdown
-* [markdown入门大全](http://www.jianshu.com/collection/BDu5F8)
-* [markdown教程](http://jingxuan.io/markdown/)
+* [Markdown入门指南](https://zhuanlan.zhihu.com/p/25411810)
+* [markdown入门教程](https://github.com/ThomasHuke/markdown)
+* [Markdown 基本要素](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics)
+* [Markdown 编写规范](https://github.com/fex-team/styleguide/blob/master/markdown.md)
+* [MarkDown的基本使用语法](https://www.jianshu.com/p/48bcd9d6e954)
+* [Markdown语法总结](https://www.jianshu.com/p/ccfd81fe77d2)
+* [用vscode写markdown](https://blog.csdn.net/u013597671/article/details/77914638/)
+* [Markdown 书写风格指南](http://einverne.github.io/markdown-style-guide/zh.html)
 
 ### 博客社区
 
@@ -957,8 +963,6 @@ tags: [前端资源]
 
 #### Demo
 * [demo.doyoe](http://demo.doyoe.com/)
-* [one-div](http://one-div.com/)
-* [w3cplus-demo-list](http://www.w3cplus.com/demos/list.html)
 * [一些有意思小demo](http://web.jobbole.com/83258/)
 * [ShapesOfCSS](https://css-tricks.com/examples/ShapesOfCSS/)
 * [css-loaders](http://projects.lukehaas.me/css-loaders/)
