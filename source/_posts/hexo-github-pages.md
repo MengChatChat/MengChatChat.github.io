@@ -11,6 +11,7 @@ tags: [工具, hexo, Github Pages]
 * [GitHub Pages](https://pages.github.com/)
 * [如何利用Github Pages搭建起自己的博客](https://www.cnblogs.com/jackyroc/p/7681938.html)
 * [教你免费搭建个人博客，Hexo&Github](https://zhuanlan.zhihu.com/p/25729240)
+* [最全Hexo博客搭建+主题优化+插件配置+常用操作+错误分析](https://juejin.im/post/5bebfe51e51d45332a456de0#heading-59)
 * [最全Hexo博客搭建+主题优化+插件配置+常用操作+错误分析](https://www.simon96.online/2018/10/12/hexo-tutorial/)
 * [Hexo同时部署到github,coding,oschina三个空间](https://www.jianshu.com/p/fa3b44073382)
 * [hexo + githubpages搭建个人博客](https://www.imooc.com/article/16054)
